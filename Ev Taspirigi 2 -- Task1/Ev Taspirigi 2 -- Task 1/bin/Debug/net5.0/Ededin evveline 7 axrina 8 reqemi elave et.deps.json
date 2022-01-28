@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ededin evveline 7 axrina 8 reqemi elave et/1.0.0": {
+        "runtime": {
+          "Ededin evveline 7 axrina 8 reqemi elave et.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ededin evveline 7 axrina 8 reqemi elave et/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

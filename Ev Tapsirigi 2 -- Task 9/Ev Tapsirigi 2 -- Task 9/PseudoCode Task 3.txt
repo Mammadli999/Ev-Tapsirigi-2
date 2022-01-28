@@ -1,0 +1,17 @@
+﻿Program Task 3
+
+READ a
+READ b
+READ c
+IF a>=100000 and a<=1000000 and b>=100000 and b<=1000000 and c>=100000 and c<=1000000 THEN
+for real numbers d = a * 0.10
+for real numbers e = b * 0.10
+for real numbers f = c * 0.10
+for real numbers g = d + e + f
+for real numbers h = g * 0.10 
+   DISPLAY h
+ELSE
+   DISPLAY "Wrong"
+ENDIF
+
+End Program

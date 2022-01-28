@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55005943-abcd-44a6-899e-da373426c1de": {
+      "ProjectGuid": "55005943-abcd-44a6-899e-da373426c1de",
+      "DisplayName": "Ev Tapsirigi 2 -- Task 7",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

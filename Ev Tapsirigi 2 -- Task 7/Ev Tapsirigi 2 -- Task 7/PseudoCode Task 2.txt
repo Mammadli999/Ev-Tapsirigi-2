@@ -1,0 +1,15 @@
+﻿Program Task 2
+
+READ a
+READ b
+IF a>=10000 and a<=100000 and b>=10000 and b<=100000 THEN
+INIT c = a + b
+INIT d = 50000 + c
+INIT e = d * 10 + 5
+for real numbers f = e * 0.05
+   DISPLAY f
+ELSE 
+   DISPLAY "Wrong"
+ENDIF
+
+End Program

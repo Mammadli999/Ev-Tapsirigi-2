@@ -1,0 +1,17 @@
+﻿Program Task1 
+READ a = 4444
+READ b = 70000
+READ c = 10
+READ d = 8
+
+if a>=1000 and a<=10000 THEN
+INIT e = b + a
+INIT f = e * c  
+INIT g = f + d
+     DISPLAY g
+ELSE
+     DISPLAY "Wrong"
+ENDIF
+
+
+End Program

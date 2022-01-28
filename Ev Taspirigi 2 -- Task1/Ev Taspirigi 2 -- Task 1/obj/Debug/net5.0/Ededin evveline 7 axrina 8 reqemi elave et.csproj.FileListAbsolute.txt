@@ -1,0 +1,16 @@
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.exe
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.deps.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.runtimeconfig.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.runtimeconfig.dev.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\ref\Ededin evveline 7 axrina 8 reqemi elave et.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\bin\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.csproj.AssemblyReference.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.AssemblyInfoInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.AssemblyInfo.cs
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.csproj.CoreCompileInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\ref\Ededin evveline 7 axrina 8 reqemi elave et.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ededin evveline 7 axrina 8 reqemi elave et\Ededin evveline 7 axrina 8 reqemi elave et\obj\Debug\net5.0\Ededin evveline 7 axrina 8 reqemi elave et.genruntimeconfig.cache
