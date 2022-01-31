@@ -14,7 +14,7 @@ namespace Ededin_evveline_7_axrina_8_reqemi_elave_et
             int c = 10;
             int d = 8;
 
-            if (a>=1000 && a<=10000)
+            if (a>=1000 && a<10000)
             {
                int e = b + a;
                int f = e * c;
