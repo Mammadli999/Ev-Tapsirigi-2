@@ -17,7 +17,7 @@ Alinan neticenin evvel 10% tap sonra ise hemin cavabin 11% tap.
             int c = 333333;
             int d = 444444;
             bool aa = (a >= 100000 && b >= 100000 && c >= 100000 && d >= 100000);
-            bool bb = (a <= 1000000 && b <= 1000000 && c <= 1000000 && d <= 1000000);
+            bool bb = (a < 1000000 && b < 1000000 && c < 1000000 && d < 1000000);
             if (aa==bb)
             {
                 double e = a * 0.10;
