@@ -18,7 +18,7 @@ Neticenin uzerine V ve VI ededleri gel. Yekunda alinan cavabin 11% tap.
             int e = 555555;
             int f = 666666;
             bool aa = (a>=100000 && b>=100000 && c>=100000 && d>=100000 && e>=100000 && f>=100000);
-            bool bb = (a<=1000000 && b<=1000000 && c<=1000000 && d<=1000000 && e<=1000000 && f<=1000000);
+            bool bb = (a<1000000 && b<1000000 && c<1000000 && d<1000000 && e<1000000 && f<1000000);
             if (aa==bb)
             {
                 long g = a + b + c + d + e + f;
