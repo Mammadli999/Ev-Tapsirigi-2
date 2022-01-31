@@ -14,7 +14,7 @@ Sonra Cavalari toplayib 10 %ni tap.
         {
             int a = 1234;
             int b = 1234567;
-            if (a>=1000 && a<=10000 && b>=1000000 && b<=10000000)
+            if (a>=1000 && a<10000 && b>=1000000 && b<10000000)
             {
                 double c = a * 0.04;
                 double d = b * 0.09;
