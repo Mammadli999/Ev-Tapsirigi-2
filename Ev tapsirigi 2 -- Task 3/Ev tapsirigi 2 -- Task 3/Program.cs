@@ -10,7 +10,7 @@ namespace Ev_tapsirigi_2____Task_3
         static void Main(string[] args)
         {
             double a = 12345;
-            if (a>=10000 && a<=100000)
+            if (a>=10000 && a<100000)
             {
                 double b = a * 0.18;
                 double c = b * 0.03;
