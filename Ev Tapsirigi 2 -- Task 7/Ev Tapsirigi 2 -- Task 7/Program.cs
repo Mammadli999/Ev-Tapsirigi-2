@@ -12,7 +12,7 @@ namespace Ev_Tapsirigi_2____Task_7
         {
             int a = 12345;
             int b = 54321;
-            if (a>=10000 && a<=100000 && b>=10000 && b<=100000)
+            if (a>=10000 && a<100000 && b>=10000 && b<100000)
             {
                 int c = a + b;
                 int d = 500000 + c;
