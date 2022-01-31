@@ -11,7 +11,7 @@ namespace Ev_tapsirigi_2____Task_2
         {
             int a = 444;
 
-            if (a>=100 && a<=1000)
+            if (a>=100 && a<1000)
             {
                 a = a + (a * 1000);
                 Console.WriteLine(a);
