@@ -16,7 +16,7 @@ Alinan neticeden III ededin 3%-ni cix.
             int c = 56789;
             int d = 98765;
             bool aa = (a >= 10000 && b >= 10000 && c >= 10000 && d >= 10000);
-            bool bb = (a <= 100000 && b <= 100000 && c <= 100000 && d <= 100000);
+            bool bb = (a < 100000 && b < 100000 && c < 100000 && d < 100000);
             if (aa==bb)
             {
                 int e = a + c;
