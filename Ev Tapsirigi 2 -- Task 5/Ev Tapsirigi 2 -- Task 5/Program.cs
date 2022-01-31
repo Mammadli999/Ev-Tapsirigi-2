@@ -11,7 +11,7 @@ namespace Ev_Tapsirigi_2____Task_5
         static void Main(string[] args)
         {
             double a = 5678;
-            if (a>=1000 && a<=10000)
+            if (a>=1000 && a<10000)
             {
                 double b = 40000 + a;
                 double c = b * 100 + 44;
